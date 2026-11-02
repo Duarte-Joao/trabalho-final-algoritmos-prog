@@ -227,6 +227,8 @@ def remove_tarefa(agenda):
     if not encontrada:
         print(f"Erro: O identificador {id_exclui} não existe ou não foi encontrado")              
 def main():
+    print("TRABALHO 1 ALGORITMOS E PROGRAMAÇÃO - Guilherme Dal Bianco")
+    print("Estudante: João Eduardo Dias Duarte")
     agenda = [] #por padrão a agenda vai ser iniciada vazia
 
     while True:
